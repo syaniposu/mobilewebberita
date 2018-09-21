@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Web Pekalongan Kota</string>
+    <string name="permission_dialog">Accessing Location Permissions required</string>
+    <string name="go_to_permissions_settings">Go to App settings and enable permissions</string>
+
+    <string name="app_version">Version</string>
+    <string name="version_unknown">Unknown</string>
+    <string name="developer_email">hanif.softdev@gmail.com</string>
+    <string name="copyright">Copyright © 2018 Dinas Kominfo Kota Pekalongan. \nAll right reserved</string>
+
+    <!-- Other String -->
+    <string name="failed_text">Gagal mengambil data di server</string>
+    <string name="no_internet_text">Tidak ada koneksi internet</string>
+    <string name="no_item">Data masih kosong</string>
+    <string name="msg_data_loaded">Mengambil Data</string>
+    <string name="msg_failed_load_data">Gagal mengambil data di server</string>
+    <string name="title_delete_confirm">Konfirmasi Hapus</string>
+    <string name="content_delete_confirm">Yakin semua data akan dihapus &#160;</string>
+    <string name="delete_success">Sukses menghapus data</string>
+    <string name="msg_copied_clipboard">Teks telah disalin</string>
+    <string name="failed">Gagal</string>
+    <string name="msg_unable_connect">Gagal terhubung dengan server</string>
+    <string name="msg_app_out_date">Ada pembaruan aplikasi terbaru</string>
+    <string name="msg_no_internet">Cobalah cek koneksi internet Anda</string>
+    <string name="title_info">Informasi</string>
+    <string name="title_no_internet">Tidak ada koneksi</string>
+
+    <!-- Button String -->
+    <string name="OK">OK</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="TRY_AGAIN">TRY AGAIN</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">FAILED</string>
+    <string name="TYPE_SEARCH">SEARCH</string>
+    <string name="NO_IMAGE">NO IMAGE</string>
+    <string name="DELETE">DELETE</string>
+    <string name="OPEN">OPEN</string>
+    <string name="SAVE">SAVE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="SKIP">SKIP</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    </string>
+
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+    <string name="middle_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="medium_lorem_ipsum">Quisque imperdiet nunc at massa dictum volutpat. Etiam id orci ipsum. Integer id ex dignissim</string>
+
+    <string name="long_lorem_ipsum">
+        Duis tellus metus, elementum a lectus id, aliquet interdum mauris. Nam bibendum efficitur sollicitudin. Proin eleifend libero velit, nec fringilla dolor finibus quis. nMorbi eu libero pellentesque, rutrum metus quis, blandit est. Fusce bibendum accumsan nisi vulputate feugiat. In fermentum laoreet euismod. Praesent sem nisl, facilisis eget odio at, rhoncus scelerisque ipsum. Nulla orci dui, dignissim a risus ut, lobortis porttitor velit.
+        \n\nNulla id lectus metus. Maecenas a lorem in odio auctor facilisis non vitae nunc. Sed malesuada volutpat massa. Praesent sit amet lacinia augue, mollis tempor dolor.
+    </string>
+</resources>

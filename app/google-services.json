@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381809239778",
+    "firebase_url": "https://web-pekalongan-kota.firebaseio.com",
+    "project_id": "web-pekalongan-kota",
+    "storage_bucket": "web-pekalongan-kota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381809239778:android:0b5eedfbb6576fe3",
+        "android_client_info": {
+          "package_name": "dinkominfo.pekalongankota.webpekalongankota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381809239778-iu9u3aiffq2di2f9o926o747b3q9g38n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJ7SMe4rcPAKg2evoJmArdfX5oK38dsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
